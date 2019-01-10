@@ -1,4 +1,4 @@
-# SSIT Work Analysis
+# SSIT Work Analysis([SOURCE](https://github.com/Geng-Jie/DataAnalysis/blob/master/SSIT-Work-Analysis/anal.ipynb))
 
 SSIT team required me to analyse their work data to give some insights. They worked with Canadian clients for several years.
 I analysed which types of software they developed mainly, which skills they use and what about their revenue trends.
