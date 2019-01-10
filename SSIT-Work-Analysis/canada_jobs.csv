@@ -1,0 +1,390 @@
+Category,Skills,Date,Budget
+iOS,Object C,10/25/2015,2000
+windows,MFC,10/28/2015,
+iOS,Objective-C,11/1/2015,4500
+Android,Java,12/1/2015,500
+Android,Java,12/10/2015,2000
+windows,MFC,12/19/2015,
+Android,Java,12/20/2015,1000
+web,PHP,1/5/2016,3000
+iOS/Android,"Java,Objective-c",1/8/2016,30000
+Android,Java,1/10/2016,
+Android,Java,1/20/2016,1500
+iOS,SWIFT 3.0,2/6/2016,
+Android,Java,2/12/2016,2000
+iOS,Object C,2/16/2016,2500
+Android,Java,2/17/2016,5000
+iOS,Objective C,2/17/2016,2700
+Android,Java,2/23/2016,500
+iOS,Swift 2.3,3/5/2016,500
+Android,Java,4/10/2016,1500
+macOS,Objective C,4/11/2016,
+Android,Java,5/5/2016,
+Android,Java,5/5/2016,3500
+iOS,Object C,5/7/2016,2500
+Android,Java,5/10/2016,250
+iOS,Swift2.2,5/10/2016,2500
+Android,Java,5/10/2016,4000
+Android,Java,5/21/2016,3000
+windows,MFC,5/26/2016,8000
+web,"angularjs, nodejs,javascript",6/5/2016,2500
+Android,Java,6/10/2016,250
+Web,"HTML5, jQuery, CSS3",6/15/2016,12000
+iOS,Object C,6/20/2016,1500
+iOS,Objective C,6/21/2016,6000
+windows,.Net framework,7/1/2016,
+iOS,Objective-C,7/2/2016,300
+Android,Java,7/5/2016,
+Android,Java,7/12/2016,4000
+iOS,SWIFT 2.3,7/15/2016,
+Web,"html5, phaser, jquery",7/20/2016,2700
+macOS,SWIFT 3.0,7/25/2016,
+Web,"jQuery, CSS3",7/25/2016,1000
+web,ASP.NET MVC,8/1/2016,1500
+Android,Java,8/5/2016,
+Android,Java,8/10/2016,
+Web,"html5, css3, jquery",8/16/2016,2500
+iOS,Objective-C,9/5/2016,
+macOS,SWIFT 3.0,9/10/2016,
+iOS,Objective C,9/25/2016,2000
+iOS,Objective C,10/3/2016,
+iOS,Objective-C,10/5/2016,
+Android,Java,10/5/2016,
+Web,"html5, webgl",10/5/2016,1000
+Android,Java,10/12/2016,
+Android,Java,10/16/2016,20000
+Web,"jQuery, CSS3",10/20/2016,3200
+iOS,Objective-c,10/28/2016,2000
+Web,"html5, css3",10/28/2016,1500
+windows,MFC,11/3/2016,2000
+iOS,Objective-C,11/5/2016,
+Android,Java,11/5/2016,
+Android,Java,11/5/2016,2000
+iOS,Objective-C,11/5/2016,30000
+Android,Java,11/5/2016,20000
+iOS,Objective-c,11/10/2016,10000
+Android,Java,11/10/2016,5000
+iOS,"Objective C, Swift",11/14/2016,1000
+iOS/Android,"Java,Swift3",11/15/2016,20000
+Web,"html5, javascript",11/20/2016,200
+Web,"html5, javascript",11/23/2016,1500
+iOS,Objective C,11/27/2016,400
+Android,Java,11/29/2016,
+Web,"html5, css3, jquery",12/1/2016,1000
+other,"c++,openCV",12/3/2016,1500
+iOS,Swift 3.0,12/5/2016,2000
+Web,"html5, javascript",12/7/2016,5000
+Web,"html5, javascript",12/13/2016,300
+Android,Java,12/15/2016,
+Web,"Polymer, bpmn.js",12/15/2016,2500
+web,PHP,12/20/2016,2000
+Web,"html5, wordpress",12/20/2016,1500
+iOS,Objective-C,1/3/2017,5000
+Web,"WebGL, html5, CannyEdge",1/3/2017,5000
+Web,"PHP, JavaScript",1/4/2017,1600
+iOS,Objective-C,1/5/2017,
+Other,"Java, JPCT",1/5/2017,3000
+Web,"WEBGL, Cesium",1/6/2017,2000
+iOS/Android,"Objective-c,Java",1/8/2017,15000
+iOS,Objective-c,1/8/2017,15000
+Web,"html5, css3, jquery",1/12/2017,4500
+Web,"html5, webgl, jquery",1/15/2017,1200
+Web,"html5, tumblr, qrcode",1/20/2017,3500
+Web,"node js, javascript",1/20/2017,2000
+Web,"Pixi, html5",1/23/2017,5000
+Android,Java,1/28/2017,
+iOS,SWIFT 3.0,2/1/2017,
+web,"php,html,javascript,jquery,bootstrap,css,ajax",2/1/2017,5000
+web,"php,html,javascript,jquery,bootstrap,css,ajax",2/1/2017,7000
+web,"php,html,javascript,jquery,bootstrap,css,ajax",2/1/2017,1300
+Android,Java,2/3/2017,1000
+iOS,Objective-c,2/5/2017,750
+other,Python,2/5/2017,100
+Web,"jQuery, CSS3",2/6/2017,1000
+iOS,Swift3,2/10/2017,500
+iOS,Objective C,2/11/2017,15000
+Android,Java,2/15/2017,
+iOS,Objective-C,2/26/2017,
+Android,Java,2/26/2017,700
+Android,Java,2/28/2017,
+Other,"python, pyserial",3/1/2017,2000
+Android,Java,3/2/2017,
+iOS,Objective-C,3/5/2017,
+iOS,Swift 3.0,3/5/2017,3000
+Web,"jquery, bootstrap, cake php",3/5/2017,5000
+iOS,Swift 3,3/6/2017,7000
+Web,"html5, javascript",3/7/2017,300
+Web,"html5, jquery, css3",3/10/2017,3000
+Web,Laravel,3/11/2017,500
+iOS,"Objective C, Swift",3/12/2017,200
+web,Laravel,3/17/2017,2500
+web,PHP,3/18/2017,1000
+web,PHP,3/19/2017,1000
+Web,"html5, css3d",3/20/2017,500
+Android,Java,3/29/2017,5000
+Web,"python, flask, angularjs, mongodb,",4/1/2017,11000
+iOS/Android,"Java,Objective-c",4/2/2017,6000
+iOS,Objective-C,4/3/2017,
+Android,Java,4/5/2017,
+iOS,Objective-c,4/5/2017,3000
+iOS/Android,"Java,Swift3",4/5/2017,5000
+iOS/Android,"Java,Swift3",4/5/2017,4000
+iOS/Android,"Java,Swift3",4/5/2017,4000
+iOS/Android,"Java,Swift3",4/5/2017,4000
+iOS/Android,"Java,Swift3",4/5/2017,4000
+iOS/Android,"Java,Swift3",4/5/2017,3000
+iOS/Android,"Java,Swift4",4/5/2017,3000
+Web,"React.js, Node.js",4/5/2017,100
+Android,Java,4/6/2017,
+Android,Java,4/8/2017,
+Android,Java,4/10/2017,5000
+Web,"html5, javascript",4/10/2017,400
+iOS,Objective C,4/11/2017,
+iOS,Swift3,4/13/2017,500
+Web,"WEbGL, html5",4/13/2017,2000
+iOS,Swift,4/20/2017,
+iOS,Objective-C,4/20/2017,500
+Web,"python, django, mysql",4/20/2017,500
+web,Liquid,4/22/2017,
+Web,"node.js, bpmn-js",4/28/2017,27000
+Android,Java,5/3/2017,5000
+Web,"webgl, html5",5/3/2017,2000
+Web,Ruby on Rails,5/3/2017,400
+Web,"node.js, python",5/3/2017,800
+Android,Java,5/10/2017,
+iOS,Objective-C,5/10/2017,
+Web,"node.js, react.js",5/10/2017,1200
+Web,Cesium.js,5/12/2017,1000
+Web,html5,5/13/2017,1500
+web,PHP,5/14/2017,
+Web,"fabric js, jquery, html, css",5/15/2017,2400
+Android,Java,5/18/2017,500
+iOS,Objective-C,5/18/2017,2000
+iOS,Object C,5/20/2017,8000
+Web,"html5, jquery, css3",5/21/2017,1500
+iOS,Objective-C,5/25/2017,3600
+Other,"python, django",5/28/2017,3200
+Windows,C#/ASP .NET,6/1/2017,29000
+Web,"python,django, javascript",6/2/2017,22000
+Web,"jquery, html5, css",6/2/2017,1800
+Web,"python,django, javascript",6/2/2017,23000
+iOS,Objective-c,6/5/2017,3000
+Web,"WebGL, html5, css3",6/5/2017,1000
+Web,WordPress,6/5/2017,1000
+web,PHP,6/7/2017,10000
+Web,"Drupal, XML",6/7/2017,1500
+Web,"html5, css3",6/9/2017,1000
+Android,Java,6/10/2017,4000
+Web,Ruby,6/11/2017,2000
+Web,"cakephp, bootstrap",6/11/2017,2400
+Web,"cakephp, bootstrap",6/11/2017,1500
+Web,"dc.js, javascript",6/12/2017,300
+Web,Cesium.js,6/12/2017,800
+iOS,Swift,6/13/2017,4000
+Web,"PHP, Zend",6/14/2017,1000
+Android,Java,6/15/2017,
+Android,Java,6/15/2017,
+Web,ruby on rails,6/24/2017,1700
+Web,"php, javascript, bootstrap",6/24/2017,1000
+Web,ruby on rails,6/24/2017,3000
+Web,"python, javascript",7/2/2017,1500
+Web,"python, javascript",7/2/2017,1000
+iOS,Objective-c,7/3/2017,30000
+iOS,Swift,7/3/2017,6500
+Android,Java,7/5/2017,
+iOS,Objective-c,7/5/2017,3000
+iOS,Objective-c,7/5/2017,2000
+iOS,Objective-c,7/5/2017,2000
+iOS,Swift 3,7/5/2017,26000
+iOS,Objective-c,7/5/2017,2000
+iOS,Objective-C,7/6/2017,3600
+Web,"Angular4, Angular CLI",7/6/2017,2000
+Web,Cesium.js,7/8/2017,2500
+Web,"laravel, php, mySQL",7/10/2017,2000$
+Web,Php,7/11/2017,
+Android,Android,7/12/2017,500
+web,Javascript,7/18/2017,
+Web,"javascript, php",7/18/2017,3000
+Web,Java,7/21/2017,
+Other,"python, flask",7/24/2017,1200
+Web,Yii,7/26/2017,4000
+iOS,Objective-C,8/1/2017,2600
+Web,"python, flask, sqlite",8/1/2017,30000
+Web,Node.js,8/2/2017,4500
+Web,Cesium.js,8/2/2017,2000
+Web,Cesium.js,8/2/2017,500
+iOS,Swift 3.0,8/3/2017,
+Android,Java,8/3/2017,3000
+Android,Java,8/3/2017,3000
+Android,Java,8/6/2017,1200
+Web,HTML5 Game,8/6/2017,4000
+iOS,Objective-c,8/10/2017,
+iOS,Objective C,8/11/2017,1500
+Web,"react, node, mysql",8/12/2017,2000$
+Web,hls.js,8/12/2017,4000
+Web,"react, node, mysql",8/12/2017,2500$
+iOS,Objective-c,8/21/2017,3000
+iOS,Objective-c,8/21/2017,2000
+Web,"html, javascript",8/22/2017,26000
+Web,"php,html,javascript,jquery,bootstrap,css,ajax",8/25/2017,7000
+Web,YII,8/29/2017,5000
+Android,Java,9/3/2017,600
+Windows,C#,9/3/2017,
+Web,"Javascript, IONIC",9/3/2017,2000$
+Android,Java,9/5/2017,2000
+Android,Java,9/5/2017,
+iOS,Objective-c,9/5/2017,4000
+iOS,Objective-C,9/13/2017,42500$
+iOS,Objective-C,10/5/2017,
+Android,Java,10/5/2017,
+Android,Java,10/5/2017,500
+Web,"mongodb, node.js",10/18/2017,1500
+web,Javascript,10/23/2017,
+iOS,"Objective-c,Swift",10/25/2017,2000
+Web,angular,10/25/2017,1000
+Web,"PHP,Zend,jQuery",10/26/2017,5000
+Android,Java,10/28/2017,4000
+iOS,Objective-c,10/28/2017,4000
+iOS,Objective-c,10/28/2017,2000
+iOS/Android,"Java,Swift3",10/31/2017,2000
+iOS/Android,"Java,Swift3",10/31/2017,5000
+iOS,Swift 3,11/1/2017,1000
+iOS,Swift 3,11/1/2017,800
+iOS,Swift 3,11/1/2017,
+iOS,Swift 3.0,11/5/2017,
+iOS,Swift4,11/5/2017,1000
+Android,Java,11/7/2017,600
+web,PHP,11/10/2017,
+iOS,Objective-C,11/11/2017,1700
+web,wordpress,11/12/2017,240
+iOS/Android,Java,11/15/2017,18000
+iOS/Android,Objective-C,11/15/2017,21000
+Android,Java,11/27/2017,2700
+web,wordpress,12/1/2017,
+iOS,Objective-C,12/1/2017,
+web,wordpress,12/5/2017,
+iOS,Swift4/Php,12/6/2017,4500
+Web,Asp.Net,12/7/2017,
+Web,"PHP, fabric.js",12/7/2017,3000
+Web,Laravel,12/11/2017,16000
+iOS,Swift4,12/11/2017,2000
+Web,"mongodb, Node.js, AngularJS, ccxt,",12/11/2017,6500
+iOS,Objective-C,12/16/2017,3000
+Web,"React,Redux,Node.js",12/20/2017,2000
+Web,"React,Redux,Node.js",12/20/2017,10000
+iOS,Swift3,12/25/2017,500
+iOS,Swift3,12/25/2017,500
+Web,WebGL,1/3/2018,3000
+web,wordpress,1/5/2018,
+web,wordpress,1/5/2018,
+Web,"html, css, javascript",1/5/2018,2000
+Web,OpenCV,1/5/2018,3000
+web,wordpress,1/8/2018,
+Web,WebGL,1/8/2018,2000
+web,wordpress,1/12/2018,
+Android,Java,1/15/2018,
+Android,Java,1/17/2018,2000
+iOS,Swift 4,1/30/2018,
+iOS,Objective-C,2/1/2018,
+Web,"Fabric.js, html5",2/1/2018,4000
+Web,"webgl, html5",2/3/2018,4000
+Web,PHP,2/5/2018,
+web,wordpress,2/12/2018,
+iOS,Objective-C,2/13/2018,1000
+Android,Kotlin,2/14/2018,
+Windows,C#/ASP .NET,2/15/2018,3000
+Web,Cesium,2/15/2018,4000
+iOS/Android,C#/ASP .NET,2/20/2018,2000
+iOS,Swift4,2/27/2018,2000
+iOS,Objective-C,3/1/2018,
+iOS,Swift4,3/2/2018,2500
+Android,Java,3/5/2018,
+Web,"Fabric.js, html5",3/5/2018,3000
+web,wordpress,3/12/2018,
+web,wordpress,3/14/2018,
+Android,Java,3/16/2018,1500
+iOS,Objective-c,3/20/2018,4000
+Android,Kotlin,3/25/2018,
+Web,"PHP, Javascript, HTML",3/26/2018,7000
+macOS,Objective-C,4/1/2018,
+Web,"Fabric.js, html5",4/2/2018,11000
+iOS,Swift,4/5/2018,1500
+Windows,Python,4/5/2018,3000
+Web,"Fabric.js, html5",4/5/2018,5000
+Android,Java,4/9/2018,1000
+Web,"html, css, javascript",4/10/2018,500
+Web,OpenCV,4/11/2018,2000
+Web,WebGL,4/11/2018,2000
+Web,Laravel,4/16/2018,
+Web,wordpress,4/17/2018,
+macOS,Objective-C,4/17/2018,
+iOS,Swift4,4/20/2018,3200
+Web,wordpress,4/24/2018,
+Web,"PHP,Codeigniter,jQuery",4/26/2018,3550
+iOS,Swift4,5/1/2018,2500
+Web,Python/Selenium/Angularjs,5/2/2018,2000
+iOS,Swift4,5/2/2018,5000
+iOS,Swift4,5/2/2018,3200
+Android,"Java, C++",5/3/2018,12000
+Android,Java,5/4/2018,2500
+Web,wordpress,5/14/2018,
+Web,Shopify,5/15/2018,
+iOS,Swift4,5/15/2018,2500
+web,"Go, hugo, html, css",5/17/2018,17000
+iOS,Swift4,5/21/2018,2800
+iOS,Swift4,5/27/2018,3200
+web,"php, html, mysql",5/30/2018,
+iOS,Swift4,6/1/2018,
+Android,"Java, C++",6/3/2018,10000
+iOS,Swift 4,6/4/2018,
+iOS,Swift4,6/5/2018,3200
+web,"Go, hugo, html, css",6/7/2018,1400
+Web,"angularjs, javascript, html, css",6/8/2018,1500
+Web,wordpress,6/9/2018,
+iOS,Swift 4.0,6/10/2018,
+Web,"Nodejs, MongoDB, Reactjs",6/10/2018,16000
+web,"html, javascript",6/12/2018,1000
+Web,wordpress,6/15/2018,
+iOS,Swift4,6/27/2018,3000
+Web,"python, Django",6/28/2018,4200
+Android,"Java, C++",6/28/2018,3000
+iOS,Swift4,7/1/2018,2000
+iOS,Swift4,7/1/2018,5000
+web,"html, javascript",7/13/2018,500
+web,"html, javascript",7/19/2018,600
+Web,PHP,7/20/2018,
+iOS,Swift4,8/1/2018,1500
+web,"html, javascript",8/2/2018,500
+Android,Java,8/5/2018,5000
+iOS,Swift4,8/10/2018,5000
+iOS,Swift 4.2,8/12/2018,
+iOS,Swift 4,8/27/2018,18000
+Web,"html, javascript",8/27/2018,10000
+iOS,Swift,8/27/2018,30000
+web,"javascript, ionic",8/28/2018,12800
+Web,Wordpress,9/2/2018,1500
+iOS,Swift4,9/2/2018,5000
+Web,PHP,9/5/2018,
+iOS,Swift4,9/5/2018,2000
+Android,Java,9/7/2018,
+web,"Ruby Germs, html, javascript, Jekyll",9/7/2018,6000
+Web,"html, javascript",9/8/2018,3300
+iOS,Objective C,9/10/2018,2000
+Android,Java,9/26/2018,10000
+IOS,Swift,9/28/2018,10000
+iOS,Objective-C,10/2/2018,
+iOS,Swift4,10/3/2018,4000
+web,"Hugo, Go, Angular, html, css",10/3/2018,3000
+iOS,"CakePHP, MongoDB, MySQL, Node.js, Socket.io",10/6/2018,1800
+iOS,Objective-C,10/8/2018,2400
+iOS,Objective-C,10/8/2018,3200
+iOS,"Swift 4, Objective-c",10/11/2018,2000
+iOS,"Swift 4, Objective-c",10/11/2018,3000
+iOS,"Swift 4, Objective-c",10/11/2018,3000
+iOS,Swift4,10/11/2018,6000
+Web,Wordpress,10/12/2018,
+iOS,"Yii2, PHP, RestAPI",10/26/2018,1200
+iOS,Swift 4.2,10/28/2018,
+Android,Java,11/1/2018,
+Web,PHP,12/12/2018,
+iOS,Objective-C,12/13/2018,1000
