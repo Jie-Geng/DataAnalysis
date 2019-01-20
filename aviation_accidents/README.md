@@ -1,4 +1,4 @@
-# Analysis of Aviation Accidents [View](https://github.com/Geng-Jie/DataAnalysis/blob/master/aviation_accidents/aviaccs.ipynb)
+# Analysis of Aviation Accidents ([View](https://github.com/Geng-Jie/DataAnalysis/blob/master/aviation_accidents/aviaccs.ipynb))
 
 ![](https://github.com/Geng-Jie/DataAnalysis/blob/master/aviation_accidents/world-map.png)
 
