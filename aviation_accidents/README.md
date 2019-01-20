@@ -1,5 +1,6 @@
-# Analysis of Aviation Accidents
-# [View](https://github.com/Geng-Jie/DataAnalysis/blob/master/aviation_accidents/aviaccs.ipynb)
+# Analysis of Aviation Accidents [View](https://github.com/Geng-Jie/DataAnalysis/blob/master/aviation_accidents/aviaccs.ipynb)
+
+![](https://github.com/Geng-Jie/DataAnalysis/blob/master/aviation_accidents/world-map.png)
 
 There I try to find insights through analysing the data set that contains 82,635 aviation accidents that occurred in the U.S., and the metadata associated with them. 
 
